@@ -1,0 +1,16 @@
+{
+    "name": "behrad/full_telmart_product_manager_v1",
+    "description": "managmanet of products",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Behrad\\FullTelmartProductManagerV1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "behrad"
+        }
+    ],
+    "require": {}
+}
