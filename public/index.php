@@ -15,6 +15,7 @@ require __DIR__ . '/../vendor/autoload.php';
     </style>
 </head>
 <body>
+test
 <h1>خوش آمدی به پروژه مدیریت محصولات تلمارت! 🚀</h1>
 <p>ساختار امن (public/) فعال شد.</p>
 <p><a href="https://github.com/baharibehrad/full-telmart-product-management" target="_blank">ریپو روی GitHub</a></p>
